@@ -1,1 +1,1 @@
-Scripts lists all file with some specification
+script that prints the type of the file
